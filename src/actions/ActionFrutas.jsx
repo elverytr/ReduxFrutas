@@ -9,7 +9,7 @@ export const ActionAgregarFruta = (fruta) => {
 
 export const BorrarFruta = (id) => {
   return {
-    types: types.borrar,
+    type: types.borrar,
     payload: id,
   };
 };

@@ -52,7 +52,7 @@ const ModalAgregar = () => {
     <>
       <button
         type="button align-middle"
-        className="btn btn-success fs-5"
+        className="btn btn-success fs-5 col-12"
         data-bs-toggle="modal"
         data-bs-target="#staticBackdrop"
       >

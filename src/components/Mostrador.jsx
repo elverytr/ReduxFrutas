@@ -1,6 +1,7 @@
 import React from "react";
 import { useSelector, useDispatch } from "react-redux";
 import ModalAgregar from "./ModalAgregar";
+import {BorrarFruta} from "../actions/ActionFrutas"
 
 const Mostrador = () => {
   const productos = useSelector((state) => state.frutas);
@@ -30,13 +31,13 @@ const Mostrador = () => {
                 src={fruta.foto}
               />
             </td>
-            <td className="col-4 align-middle">{fruta.nombre}</td>
-            <td className="col-3 align-middle">{fruta.precio}</td>
-            <td className="col-1 align-middle">
+            <td className="col-4 align-middle text-center">{fruta.nombre}</td>
+            <td className="col-3 align-middle text-center">{fruta.precio}</td>
+            <td className="col-1 align-middle text-center">
               <button
                 type="button align-middle"
                 className="btn btn-danger fs-5"
-                onClick={() => localStorage.removeItem("frutas")}
+                onClick={()=> dispatch(BorrarFruta(fruta.id))}
               >
                 Eliminar
               </button>
