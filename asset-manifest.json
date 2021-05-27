@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/ReduxFrutas/static/js/main.b91dc7d8.chunk.js",
-    "main.js.map": "/ReduxFrutas/static/js/main.b91dc7d8.chunk.js.map",
+    "main.js": "/ReduxFrutas/static/js/main.873e6eaf.chunk.js",
+    "main.js.map": "/ReduxFrutas/static/js/main.873e6eaf.chunk.js.map",
     "runtime-main.js": "/ReduxFrutas/static/js/runtime-main.991593f9.js",
     "runtime-main.js.map": "/ReduxFrutas/static/js/runtime-main.991593f9.js.map",
     "static/js/2.ef0c4d1a.chunk.js": "/ReduxFrutas/static/js/2.ef0c4d1a.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.991593f9.js",
     "static/js/2.ef0c4d1a.chunk.js",
-    "static/js/main.b91dc7d8.chunk.js"
+    "static/js/main.873e6eaf.chunk.js"
   ]
 }
