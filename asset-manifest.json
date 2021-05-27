@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/elverytr.github.io/ReduxFrutas/static/js/main.b91dc7d8.chunk.js",
-    "main.js.map": "/elverytr.github.io/ReduxFrutas/static/js/main.b91dc7d8.chunk.js.map",
-    "runtime-main.js": "/elverytr.github.io/ReduxFrutas/static/js/runtime-main.822fa9ce.js",
-    "runtime-main.js.map": "/elverytr.github.io/ReduxFrutas/static/js/runtime-main.822fa9ce.js.map",
-    "static/js/2.ef0c4d1a.chunk.js": "/elverytr.github.io/ReduxFrutas/static/js/2.ef0c4d1a.chunk.js",
-    "static/js/2.ef0c4d1a.chunk.js.map": "/elverytr.github.io/ReduxFrutas/static/js/2.ef0c4d1a.chunk.js.map",
-    "index.html": "/elverytr.github.io/ReduxFrutas/index.html",
-    "static/js/2.ef0c4d1a.chunk.js.LICENSE.txt": "/elverytr.github.io/ReduxFrutas/static/js/2.ef0c4d1a.chunk.js.LICENSE.txt"
+    "main.js": "/ReduxFrutas/static/js/main.b91dc7d8.chunk.js",
+    "main.js.map": "/ReduxFrutas/static/js/main.b91dc7d8.chunk.js.map",
+    "runtime-main.js": "/ReduxFrutas/static/js/runtime-main.991593f9.js",
+    "runtime-main.js.map": "/ReduxFrutas/static/js/runtime-main.991593f9.js.map",
+    "static/js/2.ef0c4d1a.chunk.js": "/ReduxFrutas/static/js/2.ef0c4d1a.chunk.js",
+    "static/js/2.ef0c4d1a.chunk.js.map": "/ReduxFrutas/static/js/2.ef0c4d1a.chunk.js.map",
+    "index.html": "/ReduxFrutas/index.html",
+    "static/js/2.ef0c4d1a.chunk.js.LICENSE.txt": "/ReduxFrutas/static/js/2.ef0c4d1a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.822fa9ce.js",
+    "static/js/runtime-main.991593f9.js",
     "static/js/2.ef0c4d1a.chunk.js",
     "static/js/main.b91dc7d8.chunk.js"
   ]
